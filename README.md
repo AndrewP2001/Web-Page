@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1><i>Horses<i></h1>
+<h1 i>Horses</h1>
  <hr>
  <h2>Where do horses live?</h2>
  <img src="photo-1450052590821-8bf91254a353.jpg" alt="horse on a plain">
