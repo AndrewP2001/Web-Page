@@ -1,11 +1,6 @@
 <!doctype html>
 <html>
 <head>
-<style>
-.eee {
- color: brown;
-}
-</style>
 </head>
 </html>
 <body>
