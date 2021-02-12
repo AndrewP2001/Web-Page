@@ -17,6 +17,7 @@
 <img src="Most-Expensive-Horse-Ever.jpg.webp" alt="horse running">
  <a href="https://www.google.com">Google</a>
  <p><a href="photo-1450052590821-8bf91254a353.jpg">horse on a plain</a></p> 
+ 
 <table style="width:100%">
   <tr>
     <th>Horse type</th>
@@ -31,3 +32,10 @@
     <td>White</td>
   </tr>
 </table>
+ 
+ <h4>Some breeds of horses</h4>
+<ul>
+  <li>Clydesdale</li>
+  <li>Arabian</li>
+  <li>Friesian</li>
+</ul>  
