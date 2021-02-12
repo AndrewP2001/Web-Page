@@ -1,6 +1,11 @@
 <!doctype html>
 <html>
 <head>
+ <style>
+  h1{
+      color: green
+  }
+  </style>
 <meta charset="UTf-8">
 Project
 </head>
