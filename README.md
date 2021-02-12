@@ -15,3 +15,4 @@
 <img src="horses-1414889__340.jpg" alt="3 horses">
 <br>
 <img src="Most-Expensive-Horse-Ever.jpg.webp" alt="horse running">
+ <a href="https://www.google.com">Google</a>
