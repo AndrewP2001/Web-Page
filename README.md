@@ -4,7 +4,7 @@
 <meta charset="UTf-8">
 <title>Project</title>
 </head>
-
+</html>
 <body>
 <h1>Horses</h1>
  <hr>
