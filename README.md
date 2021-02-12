@@ -1,16 +1,17 @@
 <!doctype html>
 <html>
 <head>
-  <style>
+<style>
 .eee {
  color: brown;
 }
- </style>
+</style>
 </head>
 </html>
 <body>
  <h1><i>Horses</i></h1>
  <hr>
+  
  <div class="eee">
  <h2>Where do horses live?</h2>
  </div>
