@@ -1,12 +1,19 @@
 <!doctype html>
 <html>
 <head>
+  <style>
+  .eee {
+   color: brown;
+  }
+ </style>
 </head>
 </html>
 <body>
  <h1><i>Horses</i></h1>
  <hr>
+ <div class="eee">
  <h2>Where do horses live?</h2>
+ </div>
  <img src="photo-1450052590821-8bf91254a353.jpg" alt="horse on a plain">
  <h3 title="<i>With<i> the people">With the people</h3>
  <p style="color: red;">Almost the <b>entire</b> population of horses have been domesticated</p>
