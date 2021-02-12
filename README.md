@@ -3,7 +3,7 @@
 <head>
  <style>
   h1{
-      color: green
+      color: green;
   }
   </style>
 <meta charset="UTf-8">
