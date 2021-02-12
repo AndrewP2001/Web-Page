@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTf-8">
-<title>Project</title>
+Project
 </head>
 </html>
 <body>
