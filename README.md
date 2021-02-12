@@ -19,18 +19,15 @@
  <p><a href="photo-1450052590821-8bf91254a353.jpg">horse on a plain</a></p> 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Horse type</th>
+    <th>Color</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Clydesdale</td>
+    <td>Brown</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Friesian</td>
+    <td>White</td>
   </tr>
 </table>
