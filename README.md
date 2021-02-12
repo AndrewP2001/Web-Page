@@ -1,8 +1,6 @@
 <!doctype html>
 <html>
 <head>
- <style>
-h1 {color: rgb(233, 19, 134)}
 <meta charset="UTf-8">
 <title>Project</title>
 </head>
