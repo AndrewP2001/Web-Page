@@ -17,3 +17,20 @@
 <img src="Most-Expensive-Horse-Ever.jpg.webp" alt="horse running">
  <a href="https://www.google.com">Google</a>
  <p><a href="photo-1450052590821-8bf91254a353.jpg">horse on a plain</a></p> 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
